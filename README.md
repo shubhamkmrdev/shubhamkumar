@@ -119,7 +119,7 @@ I enjoy building scalable, secure, and efficient systems using modern DevOps pra
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamkmrdev&theme=radical" />
 </p>
 
 <hr>
