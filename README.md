@@ -1,129 +1,119 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">🚀 Senior Engineer | Cloud & Infrastructure Specialist </h3>
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shubham+Kumar;Senior+Cloud+%26+Infrastructure+Engineer;DevOps+%7C+Azure+%7C+AWS;Automation+%7C+Scalability+%7C+Reliability" />
+</p>
+
+<h3 align="center">🚀 Senior Engineer | Cloud & Infrastructure Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhamkmrdev&label=Profile+Views&color=brightgreen&style=for-the-badge"/>
 </p>
 
-<hr>
+---
 
 <!-- ABOUT -->
-<h2>💫 About Me</h2>
-<p>
-I specialize in <b>cloud infrastructure management, automation, and cost optimization</b>.
-I enjoy building scalable, secure, and efficient systems using modern DevOps practices.
+## 💫 About Me  
+
+✨ Cloud & Infrastructure Engineer with strong experience in **Azure & AWS**  
+⚡ Focused on **automation, reliability, and cost optimization**  
+🚀 Passionate about building **scalable, production-grade systems**  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubhamkumar6631/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:shubhamkumar6631@fareportal.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
-<ul>
-  <li>☁️ Cloud: Azure, AWS</li>
-  <li>⚙️ DevOps: Kubernetes, Docker, Terraform, Ansible</li>
-  <li>🚀 CI/CD: Jenkins, GitHub Actions, GitLab CI/CD</li>
-  <li>📊 Monitoring: Datadog, Azure Monitor</li>
-  <li>💻 Scripting: Python, Linux, Git</li>
-</ul>
+---
 
-<hr>
+## ⚙️ Tech Stack  
 
-<!-- CONNECT -->
-<h2>📌 Let's Connect</h2>
-<p>
-<a href="https://www.linkedin.com/in/shubhamkumar6631/" target="_blank">LinkedIn</a> |
-<a href="mailto:shubhamkumar6631@fareportal.com">Email</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,ansible,jenkins,git,github,gitlab,python,linux&theme=dark" />
 </p>
 
-<hr>
+---
 
-<!-- TECH STACK -->
-<h2>💻 Tech Stack</h2>
+## 🧑‍💼 Professional Experience  
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,ansible,jenkins,git,github,gitlab,python,linux" />
+🔹 **Fareportal Inc.**  
+**Senior Engineer – Cloud & Infrastructure**  
+📅 April 2024 – Present  
+
+🔹 **Indian Energy Exchange (IEX)**  
+**Sr. System Engineer** *(Mar 2023 – Mar 2024)*  
+**System Engineer** *(Jan 2022 – Mar 2023)*  
+
+---
+
+## 🏆 Achievements & Recognition  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌟_Star_Performer-Fareportal-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💡_Automation-Champion-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏅_Spot_Award-Cost_Optimization-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀_Delivery-Excellence-blue?style=for-the-badge"/>
 </p>
 
-<hr>
+---
 
-<!-- EXPERIENCE -->
-<h2>🧑‍💼 Professional Experience</h2>
+## 🏢 Company Recognition  
 
-<h3>Fareportal Inc.</h3>
-<p><b>Senior Engineer – Cloud & Infrastructure</b><br>April 2024 – Present</p>
+<div align="center">
 
-<h3>Indian Energy Exchange - IEX</h3>
-<p><b>Sr. System Engineer</b><br>Mar 2023 – Mar 2024</p>
-<p><b>System Engineer</b><br>Jan2022 – Mar 2023</p>
+<table>
+<tr>
+<td width="300px">
 
+### ⭐ Fareportal Inc.  
+- Proactive monitoring & incident resolution  
+- Improved uptime & system reliability  
+- Automated CI/CD pipelines  
 
-<hr>
+</td>
 
-<!-- ACHIEVEMENTS -->
-<h2>🏆 Achievements & Recognition</h2>
+<td width="300px">
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+### ⚡ Indian Energy Exchange  
+- Quick learner & fast onboarding  
+- DR setup & application migration  
+- Strong production support  
 
-  <div style="border:1px solid #ddd; padding:15px; border-radius:10px; width:250px;">
-    🌟 <b>Star Performer</b><br>
-    <small>Fareportal</small>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:15px; border-radius:10px; width:250px;">
-    💡 <b>Automation Champion</b><br>
-    <small>CI/CD Pipelines</small>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:15px; border-radius:10px; width:250px;">
-    💡 <b>Automation Champion</b><br>
-    <small>CI/CD Pipelines</small>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:15px; border-radius:10px; width:250px;">
-    🏅 <b>Spot Award</b><br>
-    <small>Cloud Cost Optimization</small>
-  </div>
+</td>
+</tr>
+</table>
 
 </div>
 
-<hr>
+---
 
-<!-- COMPANY RECOGNITION -->
-<h2>🏢 Company Recognition</h2>
-
-<h3>Fareportal Inc</h3>
-<ul>
-  <li>⭐ Proactive monitoring & incident resolution</li>
-  <li>⚡ Improved uptime and reliability</li>
-  <li>🔧 Automated deployment pipelines</li>
-</ul>
-
-<h3>Indian Energy Exchange</h3>
-<ul>
-  <li>🚀 Quick learner and fast onboarding</li>
-  <li>💡 Contributed to DR and Application migration</li>
-  <li>🛠️ Strong production support</li>
-</ul>
-
-<hr>
-
-<!-- STATS -->
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkmrdev&show_icons=true&theme=radical" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=shubhamkmrdev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkmrdev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=shubhamkmrdev&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<hr>
+---
 
-<!-- TROPHIES -->
-<h2>🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamkmrdev&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamkmrdev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-<hr>
-
+---
 
 <!-- FOOTER -->
-<h3 align="center">✨ “Always learning, always building.” ✨</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+</p>
+
+<h3 align="center">✨ Always Learning • Always Building • Always Improving ✨</h3>
