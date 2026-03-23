@@ -108,9 +108,9 @@ I enjoy building scalable, secure, and efficient systems using modern DevOps pra
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkmrdev&show_icons=true&theme=radical" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=shubhamkmrdev&theme=radical" />
 </p>
 
 <hr>
