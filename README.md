@@ -1,119 +1,197 @@
-<!-- ANIMATED HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shubham+Kumar;Senior+Cloud+%26+Infrastructure+Engineer;DevOps+%7C+Azure+%7C+AWS;Automation+%7C+Scalability+%7C+Reliability" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shubham Kumar | Cloud Engineer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<h3 align="center">🚀 Senior Engineer | Cloud & Infrastructure Specialist</h3>
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamkmrdev&label=Profile+Views&color=brightgreen&style=for-the-badge"/>
-</p>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
 
----
+    body {
+      background: #0f172a;
+      color: #fff;
+      line-height: 1.6;
+    }
 
-<!-- ABOUT -->
-## 💫 About Me  
+    header {
+      text-align: center;
+      padding: 60px 20px;
+      background: linear-gradient(135deg, #00c6ff, #0072ff);
+    }
 
-✨ Cloud & Infrastructure Engineer with strong experience in **Azure & AWS**  
-⚡ Focused on **automation, reliability, and cost optimization**  
-🚀 Passionate about building **scalable, production-grade systems**  
+    header h1 {
+      font-size: 2.8rem;
+    }
 
----
+    header p {
+      margin-top: 10px;
+      font-size: 1.2rem;
+    }
 
-## 🌐 Connect With Me  
+    section {
+      padding: 50px 10%;
+    }
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhamkumar6631/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:shubhamkumar6631@fareportal.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+    h2 {
+      margin-bottom: 20px;
+      color: #38bdf8;
+    }
 
----
+    .card {
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 12px;
+      margin: 10px 0;
+      transition: 0.3s;
+    }
 
-## ⚙️ Tech Stack  
+    .card:hover {
+      transform: translateY(-5px);
+      background: #334155;
+    }
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,ansible,jenkins,git,github,gitlab,python,linux&theme=dark" />
-</p>
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
 
----
+    .badges span {
+      display: inline-block;
+      background: #38bdf8;
+      color: #000;
+      padding: 8px 12px;
+      border-radius: 20px;
+      margin: 5px;
+      font-size: 0.9rem;
+    }
 
-## 🧑‍💼 Professional Experience  
+    .contact a {
+      color: #38bdf8;
+      text-decoration: none;
+      margin-right: 15px;
+    }
 
-🔹 **Fareportal Inc.**  
-**Senior Engineer – Cloud & Infrastructure**  
-📅 April 2024 – Present  
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #020617;
+      margin-top: 30px;
+    }
+  </style>
+</head>
 
-🔹 **Indian Energy Exchange (IEX)**  
-**Sr. System Engineer** *(Mar 2023 – Mar 2024)*  
-**System Engineer** *(Jan 2022 – Mar 2023)*  
+<body>
 
----
+  <!-- HEADER -->
+  <header>
+    <h1>Shubham Kumar</h1>
+    <p>🚀 Senior Engineer | Cloud & Infrastructure Specialist</p>
+  </header>
 
-## 🏆 Achievements & Recognition  
+  <!-- ABOUT -->
+  <section>
+    <h2>💫 About Me</h2>
+    <p>
+      I specialize in cloud infrastructure, automation, and cost optimization.
+      Passionate about building scalable, secure, and efficient systems using DevOps practices.
+    </p>
+  </section>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌟_Star_Performer-Fareportal-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💡_Automation-Champion-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏅_Spot_Award-Cost_Optimization-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀_Delivery-Excellence-blue?style=for-the-badge"/>
-</p>
+  <!-- TECH STACK -->
+  <section>
+    <h2>⚙️ Tech Stack</h2>
+    <div class="badges">
+      <span>Azure</span>
+      <span>AWS</span>
+      <span>Kubernetes</span>
+      <span>Docker</span>
+      <span>Terraform</span>
+      <span>Ansible</span>
+      <span>Jenkins</span>
+      <span>Python</span>
+      <span>Linux</span>
+      <span>Git</span>
+    </div>
+  </section>
 
----
+  <!-- EXPERIENCE -->
+  <section>
+    <h2>🧑‍💼 Experience</h2>
 
-## 🏢 Company Recognition  
+    <div class="card">
+      <h3>Fareportal Inc.</h3>
+      <p>Senior Engineer – Cloud & Infrastructure</p>
+      <small>April 2024 – Present</small>
+    </div>
 
-<div align="center">
+    <div class="card">
+      <h3>Indian Energy Exchange (IEX)</h3>
+      <p>Sr. System Engineer</p>
+      <small>Mar 2023 – Mar 2024</small>
+      <p>System Engineer</p>
+      <small>Jan 2022 – Mar 2023</small>
+    </div>
+  </section>
 
-<table>
-<tr>
-<td width="300px">
+  <!-- ACHIEVEMENTS -->
+  <section>
+    <h2>🏆 Achievements</h2>
+    <div class="grid">
+      <div class="card">🌟 Star Performer – Fareportal</div>
+      <div class="card">💡 Automation Champion</div>
+      <div class="card">🏅 Spot Award – Cost Optimization</div>
+      <div class="card">🚀 Delivery Excellence</div>
+    </div>
+  </section>
 
-### ⭐ Fareportal Inc.  
-- Proactive monitoring & incident resolution  
-- Improved uptime & system reliability  
-- Automated CI/CD pipelines  
+  <!-- RECOGNITION -->
+  <section>
+    <h2>🏢 Company Recognition</h2>
 
-</td>
+    <div class="grid">
+      <div class="card">
+        <h3>Fareportal</h3>
+        <ul>
+          <li>Improved uptime & reliability</li>
+          <li>Automated CI/CD pipelines</li>
+          <li>Incident resolution</li>
+        </ul>
+      </div>
 
-<td width="300px">
+      <div class="card">
+        <h3>IEX</h3>
+        <ul>
+          <li>Cloud migration & DR setup</li>
+          <li>Production support</li>
+          <li>Fast onboarding</li>
+        </ul>
+      </div>
+    </div>
+  </section>
 
-### ⚡ Indian Energy Exchange  
-- Quick learner & fast onboarding  
-- DR setup & application migration  
-- Strong production support  
+  <!-- CONTACT -->
+  <section>
+    <h2>📌 Contact</h2>
+    <div class="contact">
+      <a href="https://www.linkedin.com/in/shubhamkumar6631/" target="_blank">LinkedIn</a>
+      <a href="mailto:shubhamkumar6631@fareportal.com">Email</a>
+    </div>
+  </section>
 
-</td>
-</tr>
-</table>
+  <!-- FOOTER -->
+  <footer>
+    <p>✨ Always Learning • Always Building • Always Improving ✨</p>
+  </footer>
 
-</div>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkmrdev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=shubhamkmrdev&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamkmrdev&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
-</p>
-
-<h3 align="center">✨ Always Learning • Always Building • Always Improving ✨</h3>
+</body>
+</html>
