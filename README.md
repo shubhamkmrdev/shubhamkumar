@@ -1,197 +1,193 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Shubham Kumar | Cloud Engineer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shubham Kumar | Cloud Engineer</title>
 
-  <!-- Google Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }
+<style>
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #0f172a, #020617);
+  color: #fff;
+}
 
-    body {
-      background: #0f172a;
-      color: #fff;
-      line-height: 1.6;
-    }
+/* NAV */
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10%;
+  position: sticky;
+  top: 0;
+  background: rgba(15,23,42,0.7);
+  backdrop-filter: blur(10px);
+}
 
-    header {
-      text-align: center;
-      padding: 60px 20px;
-      background: linear-gradient(135deg, #00c6ff, #0072ff);
-    }
+nav h2 { color: #38bdf8; }
+nav a {
+  color: #fff;
+  margin-left: 20px;
+  text-decoration: none;
+}
 
-    header h1 {
-      font-size: 2.8rem;
-    }
+/* HERO */
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+}
 
-    header p {
-      margin-top: 10px;
-      font-size: 1.2rem;
-    }
+.hero h1 {
+  font-size: 3rem;
+}
 
-    section {
-      padding: 50px 10%;
-    }
+.hero span {
+  color: #38bdf8;
+}
 
-    h2 {
-      margin-bottom: 20px;
-      color: #38bdf8;
-    }
+.hero p {
+  margin-top: 10px;
+  color: #94a3b8;
+}
 
-    .card {
-      background: #1e293b;
-      padding: 20px;
-      border-radius: 12px;
-      margin: 10px 0;
-      transition: 0.3s;
-    }
+/* SECTION */
+section {
+  padding: 60px 10%;
+}
 
-    .card:hover {
-      transform: translateY(-5px);
-      background: #334155;
-    }
+h2 {
+  color: #38bdf8;
+  margin-bottom: 20px;
+}
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-    }
+/* CARDS */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
 
-    .badges span {
-      display: inline-block;
-      background: #38bdf8;
-      color: #000;
-      padding: 8px 12px;
-      border-radius: 20px;
-      margin: 5px;
-      font-size: 0.9rem;
-    }
+.card {
+  background: rgba(255,255,255,0.05);
+  padding: 20px;
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  transition: 0.3s;
+}
 
-    .contact a {
-      color: #38bdf8;
-      text-decoration: none;
-      margin-right: 15px;
-    }
+.card:hover {
+  transform: translateY(-8px);
+  background: rgba(56,189,248,0.1);
+}
 
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: #020617;
-      margin-top: 30px;
-    }
-  </style>
+/* BADGES */
+.badges span {
+  display: inline-block;
+  margin: 6px;
+  padding: 8px 14px;
+  border-radius: 20px;
+  background: #38bdf8;
+  color: #000;
+  font-size: 0.9rem;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 30px;
+  color: #94a3b8;
+}
+</style>
 </head>
 
 <body>
 
-  <!-- HEADER -->
-  <header>
-    <h1>Shubham Kumar</h1>
-    <p>🚀 Senior Engineer | Cloud & Infrastructure Specialist</p>
-  </header>
+<!-- NAVBAR -->
+<nav>
+  <h2>Shubham</h2>
+  <div>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#experience">Experience</a>
+    <a href="#contact">Contact</a>
+  </div>
+</nav>
 
-  <!-- ABOUT -->
-  <section>
-    <h2>💫 About Me</h2>
-    <p>
-      I specialize in cloud infrastructure, automation, and cost optimization.
-      Passionate about building scalable, secure, and efficient systems using DevOps practices.
-    </p>
-  </section>
+<!-- HERO -->
+<div class="hero">
+  <h1>Hi, I'm <span>Shubham Kumar</span> 👋</h1>
+  <p>Senior Engineer | Cloud & Infrastructure Specialist</p>
+</div>
 
-  <!-- TECH STACK -->
-  <section>
-    <h2>⚙️ Tech Stack</h2>
-    <div class="badges">
-      <span>Azure</span>
-      <span>AWS</span>
-      <span>Kubernetes</span>
-      <span>Docker</span>
-      <span>Terraform</span>
-      <span>Ansible</span>
-      <span>Jenkins</span>
-      <span>Python</span>
-      <span>Linux</span>
-      <span>Git</span>
+<!-- ABOUT -->
+<section id="about">
+  <h2>💫 About Me</h2>
+  <p>
+    Cloud Engineer focused on building scalable infrastructure, automation,
+    and cost-efficient cloud systems using Azure & AWS.
+  </p>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+  <h2>⚙️ Tech Stack</h2>
+  <div class="badges">
+    <span>Azure</span><span>AWS</span><span>Kubernetes</span>
+    <span>Docker</span><span>Terraform</span><span>Ansible</span>
+    <span>Jenkins</span><span>Python</span><span>Linux</span>
+  </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section id="experience">
+  <h2>🧑‍💼 Experience</h2>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Fareportal</h3>
+      <p>Senior Engineer</p>
+      <small>2024 – Present</small>
     </div>
-  </section>
-
-  <!-- EXPERIENCE -->
-  <section>
-    <h2>🧑‍💼 Experience</h2>
 
     <div class="card">
-      <h3>Fareportal Inc.</h3>
-      <p>Senior Engineer – Cloud & Infrastructure</p>
-      <small>April 2024 – Present</small>
-    </div>
-
-    <div class="card">
-      <h3>Indian Energy Exchange (IEX)</h3>
+      <h3>IEX</h3>
       <p>Sr. System Engineer</p>
-      <small>Mar 2023 – Mar 2024</small>
+      <small>2023 – 2024</small>
+    </div>
+
+    <div class="card">
+      <h3>IEX</h3>
       <p>System Engineer</p>
-      <small>Jan 2022 – Mar 2023</small>
+      <small>2022 – 2023</small>
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- ACHIEVEMENTS -->
-  <section>
-    <h2>🏆 Achievements</h2>
-    <div class="grid">
-      <div class="card">🌟 Star Performer – Fareportal</div>
-      <div class="card">💡 Automation Champion</div>
-      <div class="card">🏅 Spot Award – Cost Optimization</div>
-      <div class="card">🚀 Delivery Excellence</div>
-    </div>
-  </section>
+<!-- ACHIEVEMENTS -->
+<section>
+  <h2>🏆 Achievements</h2>
+  <div class="grid">
+    <div class="card">🌟 Star Performer</div>
+    <div class="card">💡 Automation Champion</div>
+    <div class="card">🏅 Spot Award</div>
+    <div class="card">🚀 Delivery Excellence</div>
+  </div>
+</section>
 
-  <!-- RECOGNITION -->
-  <section>
-    <h2>🏢 Company Recognition</h2>
+<!-- CONTACT -->
+<section id="contact">
+  <h2>📌 Contact</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/shubhamkumar6631/" style="color:#38bdf8;">LinkedIn</a> |
+    <a href="mailto:shubhamkumar6631@fareportal.com" style="color:#38bdf8;">Email</a>
+  </p>
+</section>
 
-    <div class="grid">
-      <div class="card">
-        <h3>Fareportal</h3>
-        <ul>
-          <li>Improved uptime & reliability</li>
-          <li>Automated CI/CD pipelines</li>
-          <li>Incident resolution</li>
-        </ul>
-      </div>
-
-      <div class="card">
-        <h3>IEX</h3>
-        <ul>
-          <li>Cloud migration & DR setup</li>
-          <li>Production support</li>
-          <li>Fast onboarding</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <!-- CONTACT -->
-  <section>
-    <h2>📌 Contact</h2>
-    <div class="contact">
-      <a href="https://www.linkedin.com/in/shubhamkumar6631/" target="_blank">LinkedIn</a>
-      <a href="mailto:shubhamkumar6631@fareportal.com">Email</a>
-    </div>
-  </section>
-
-  <!-- FOOTER -->
-  <footer>
-    <p>✨ Always Learning • Always Building • Always Improving ✨</p>
-  </footer>
+<footer>
+  ✨ Always Learning • Always Building • Always Improving ✨
+</footer>
 
 </body>
 </html>
